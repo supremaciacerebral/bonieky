@@ -1,4 +1,4 @@
-[checkmark]: https://raw.githubusercontent.com/mozgbrasil/mozgbrasil.github.io/master/assets/images/logos/logo_32_32.png "MOZG"
+[checkmark]: https://www.iconfinder.com/icons/532707/api_coding_developer_development_man_programming_screen_icon "MOZG"
 ![valid XHTML][checkmark]
 
 [getcomposer]: https://getcomposer.org/
