@@ -1,4 +1,4 @@
-[checkmark]: https://www.iconfinder.com/icons/532707/api_coding_developer_development_man_programming_screen_icon "MOZG"
+[checkmark]: https://cdn4.iconfinder.com/data/icons/web-development-5/500/developer-api-coding-screen-512.png "MOZG"
 ![valid XHTML][checkmark]
 
 [getcomposer]: https://getcomposer.org/
